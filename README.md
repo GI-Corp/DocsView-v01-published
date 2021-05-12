@@ -1,5 +1,5 @@
 # DocsView-v01-published
-DocsView is web-based application to simplify the documentation workflow by providing basic functionalities of CRUD to analog-digital-documentation.
+DocsView is web-based application to simplify the documentation workflow by providing basic functionalities of CRUD to analog-digital-conversion.
 
 <b><h3>Main features:</h3></b> 
 • CRUD (Create, Read, Update, Delete data)  
