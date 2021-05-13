@@ -6,6 +6,7 @@ DocsView is web-based application to simplify the documentation workflow by prov
 • Customized CRM (Django Admin JET)  
 • RBAC (Role Based Access Control)  
 • Documentation F.A.Q.  
+• Database and media backup  
 • Fully responsive design   
 <hr>
 <b><h3>Tech-stack used: </h3></b>
